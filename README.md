@@ -8,7 +8,7 @@
 
 <b>On-premises Auto Document Issue Register Updater for AEC organisations</b>
 
-Auto Document Issue Register Updater have been designed to make completing a document issue easier and paractical.
+Auto Document Issue Register Updater has been designed to make completing a document issue easier and paractical.
 
 Built with <b>as a Winforms C#,</b> application.
 
