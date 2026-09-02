@@ -6,8 +6,6 @@
 
 #  Auto Document Issue Register Updater (Case Study – Proprietary Production Application)
 
-# Auto Document Issue Register Updater
-
 A bespoke **C# WinForms desktop application** developed to automate the preparation and completion of Document Issue Registers within the AEC (Architecture, Engineering & Construction) industry.
 
 Document Issue Registers are commonly maintained as bespoke Excel workbooks, with each organisation using its own structure, formatting, document requirements and issue workflows. This makes a universal solution impractical; however, where a defined register format and workflow are established, significant parts of the process can be automated.
@@ -31,10 +29,8 @@ The production application was developed as a bespoke solution and its source co
 Completing a Document Issue register typically is a time consuming, tedious and error intensive task completed manually. This manual approach is how most organisations complete a Document Issue Register even today.
 
 # 🧭 Auto Document Issue Register Updater (Case Study – Proprietary Production Application)
-<h3>Complete a Document Issue Register in Seconds</h3> 
 
 ---
-
 
 <i>Auto Document Issue Register Updater allows the user to complete a Document Issue Register the quick and easy way.</i>
 <p align="left">
