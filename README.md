@@ -149,18 +149,18 @@ If your company’s directory structure aligns with the sample directory structu
 [Back to top](#enterprise-project)
 ## 💡 Solution
 
-The Project Navigator centralises historical and active construction project information into a structured, searchable directory environment where project records can be located in seconds—eliminating manual directory navigation, reducing search time, and improving access to construction knowledge.
+The application solves the manual, time-consuming and error-prone process of completing a Document Issue Register for AEC projects.
 
-The platform provides a shared catalogue of project information across the organisation, enabling AEC teams to:
+How it works:
 
-- Quickly retrieve historical and current project records
-- Access project information through a structured search environment
-- Improve visibility of engineering projects across departments
-- Increase accessibility to organisational knowledge and technical records
-- Reduce time spent locating engineering documentation and project assets
-- Bookmark and quickly access frequently used projects
+1. User selects the master Excel register - Document Issue Register.xls and its project directory
+2. User points to a folder containing Mechanical or Electrical PDF drawings - app auto-detects [ 10 Drawing(s) ]
+3. User confirms Recipients List - Client, Architect, PM, QS, Contractors with initials
+4. User selects optional contract docs - Electrical / Mechanical Spec & Pricing with revision, plus supporting docs - Design Risk Assessment, Inspection Plan, BCAR Schedule
+4. User sets mandatory issue data - Issue Date, Issued For - Information, Delivery Method - WeTransfer, Sheet Size - A4
+6. Clicks Update Register - app automatically populates the Excel register with drawing names, revisions, recipients and generates the dated PDF Document Issue Register 02-09-26.pdf in the output directory
 
-By consolidating project directory information into a unified catalogue system, the solution improves efficiency, strengthens knowledge retention, and supports faster access to the information required for construction decision-making.
+Replaces manual copying of drawing names, dates and recipient details with an automated WinForms C# workflow that ensures consistency, accuracy and auditability across document issues.
 
 ---
 [Back to top](#enterprise-project)
