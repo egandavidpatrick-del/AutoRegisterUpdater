@@ -168,15 +168,15 @@ This is a standalone on-premises WinForms C# desktop application.
 
 [Back to top](#enterprise-project)
 <a id="screenshots-project-navigator--enola"></a>
-## 🖼️ Screenshots Auto Document Issue Register
+## 🖼️ Screenshots Auto Document Issue Register Updater
 
-<h3>Auto Document Issue Register - File Menu & Help Menu Options</h3>
+<h3>Auto Document Issue Register Updater - File Menu & Help Menu Options</h3>
 
 <p align="left">
   <img src="./images/image2.png" width="49%" alt="alt="Auto Document Issue Register  - File Menu Options">
   <img src="./images/image3.png" width="49%" alt="Auto Document Issue Register - Help Menu Options">
 </p>
-<h3>Auto Document Issue Register - About Dialog</h3>
+<h3>Auto Document Issue Register Updater - About Dialog</h3>
 <p align="left">
 <img src="/images/image4.png" width="99%" alt="alt="Auto Document Issue Register - About Box">
 </p>
