@@ -128,7 +128,7 @@ If your company’s directory structure aligns with the sample directory structu
 
 [Back to top](#enterprise-project)
 <a id="enola-architecture"></a>
-## 🏗️ Auto Document Issue Register Architecture 
+## 🏗️ Auto Document Issue Register Updater Architecture 
 
 This is a standalone on-premises WinForms C# desktop application.
 
