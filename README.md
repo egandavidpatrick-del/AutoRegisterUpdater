@@ -232,7 +232,7 @@ This reduces time spent searching for project directories, improves coordination
 - Developed and tested on Windows 11 Pro box.
 
 **Software Requirements**
-- Microsoft Office 365 Installed on users computer.
+- Microsoft Office 365 Installed on the users computer.
 
 ---
 [Back to top](#enterprise-project)
