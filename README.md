@@ -92,7 +92,7 @@ This repository includes:
 ## ✨Key Features
 
 - Auto-detects PDF drawings in selected directory - shows [ 10 Drawing(s) ] count in title bar
-- Implements aggressive drawing filename validation prior to updated in Excel register See section 23.1 of the Auto Document Register Updater User Guide in this repository
+- Implements aggressive drawing filename validation prior to updated in Excel register See section 23.1 in the Auto Document Register Updater User Guide in this repository
 - Browse and link to Document Issue Register Excel file - Document Issue Register.xls or Document Issue Register.xlsx
 - Sets Document Issue Register Directory - P:\2019 Projects\...\_Standards\
 - Sets Mechanical / Electrical Drawings Directory containing PDFs
