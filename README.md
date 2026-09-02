@@ -8,7 +8,12 @@
 
 <b>On-premises Auto Document Issue Register Updater for AEC organisations</b>
 
-Auto Document Issue Register Updater has been designed to make completing a document issue easier and paractical.
+Because Document Issue Registers vary significantly between organisations, they are typically maintained as bespoke Excel spreadsheets. Each company has its own interpretation of what a Document Issue Register should contain and how it should be presented, resulting in differences in structure, formatting, typography, layouts, and workflows.
+
+As a result, developing a single, unified solution capable of accommodating every possible Document Issue Register is not practical. The diversity in design and organisational requirements means that each register may require a tailored approach.
+
+The Document Issue Register Updater application presented in this repository demonstrates what can be achieved through the automation of Document Issue Register completion. While it is not intended to serve as a universal solution for every organisation, it provides a practical example of how automation can streamline and improve the process within a defined Document Issue Register format.
+
 
 Built with <b>as a Winforms C#,</b> application.
 
