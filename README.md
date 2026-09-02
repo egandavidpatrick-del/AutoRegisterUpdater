@@ -100,7 +100,7 @@ This repository includes:
 - Issued For - Mandatory - Preliminary, Tender, Information, Scheme, Planning, Construction
 - Document Delivery - Mandatory - Prints, Shared Folder, WeTransfer, Email
 - PDF Output Sheet Size - A4 / A3
-- One-click Update Register - updates Excel and generates PDF register
+- One-click <b>Update Register</b> - updates Excel and generates PDF register
 
 ---
 [Back to top](#enterprise-project)
