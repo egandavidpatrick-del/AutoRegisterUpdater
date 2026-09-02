@@ -162,7 +162,7 @@ Once deployed, the Project Navigator system operates autonomously.
 <a id="screenshots-project-navigator--enola"></a>
 ## 🖼️ Screenshots Auto Document Issue Register
 
-<h3>New User Registration & Login</h3>
+<h3>Auto Document Issue Register - File Menu & Help Menu Options</h3>
 
 <p align="left">
   <img src="./images/image2.png" width="49%" alt="alt="Auto Document Issue Register  - File Menu Options">
