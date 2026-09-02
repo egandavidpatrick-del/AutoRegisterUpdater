@@ -58,9 +58,6 @@ Completing a Document Issue register typically is a time consuming, tedious and 
 The Auto Document Issue Register Updater was originally developed for the AEC (Architecture, Engineering & Construction) industry, where organisations commonly update and maintain document issue registers.
 
 [Back to top](#enterprise-project)
-<a id="typical-engineering-project-directory-structure"></a>
-
-[Back to top](#enterprise-project)
 <a id="repository-contents"></a>
 ## 📦 Repository Contents
 
@@ -69,7 +66,7 @@ The Auto Document Issue Register Updater was originally developed for the AEC (A
 /guides/user-guides
   Auto Document Issue Register Updater User Guide Version 1.0.(PDF)
 
-/images/project-navigator
+/images/autoregisterupdater
   Auto Document Issue Register Updater screenshots
 
 ```
