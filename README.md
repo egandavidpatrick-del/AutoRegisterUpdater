@@ -97,11 +97,7 @@ Navigator is designed around structured AEC project directories inspired by ISO 
 This repository includes:
 
 * User Guides
-* Installation Documentation
-* Operational Considerations
 * Application Screenshots
-* Execution Logs
-
 ---
 [Back to top](#enterprise-project)
 <a id="key-features"></a>
