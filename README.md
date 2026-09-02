@@ -38,24 +38,6 @@ Completing a Document Issue register typically is a time consuming, tedious and 
 💡 **Tip:** Click the hero image to view the full-size version.
 
 ---
-
-## The interesting part: Enola
-
-Navigator uses optimistic record locking to prevent conflicting edits. Because browser sessions can terminate unexpectedly, locks can become orphaned.
-
-<b>Enola is a C# Windows client paired with a hidden Windows Service designed to recover those locks automatically.</b>
-
-- Continuously monitors locked records
-- Detects stale locks
-- Automatically releases locks after the configured timeout
-- Maintains audit/logging information
-- Uses a primary/backup unlocker model
-- Continues operating when the visible client is stopped
-
-<h3>Enola :- Architectural Diagram - Primary Unlocker Model</h3>
-
-<img src="./images/enola-server/image7.png" width="100%">
-
 <a id="enterprise-project"></a>
 
 ## 📑 Table of Contents
