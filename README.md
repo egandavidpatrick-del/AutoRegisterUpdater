@@ -23,7 +23,7 @@ The production application source code is private because Auto Document Issue Re
 
 # The problem
 
-Completing a Document Issue register typically is a time consuming, tedious and error intensive task completed manually. The manual approach is how most organisations complete a Document Issue Register even today.
+Completing a Document Issue register typically is a time consuming, tedious and error intensive task completed manually. This manual approach is how most organisations complete a Document Issue Register even today.
 
 # 🧭 Auto Document Issue Register Updater
 <h3>Complete a Document Issue Register in Seconds</h3> 
