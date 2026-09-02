@@ -6,18 +6,20 @@
 
 #  Auto Document Issue Register Updater (Case Study – Proprietary Production Application)
 
-A bespoke **C# WinForms desktop application** developed to automate the preparation and issue of Document Issue Registers within AEC project environments.
+# Auto Document Issue Register Updater
 
-The application replaces a traditionally manual, repetitive Excel-based workflow with a controlled process that validates drawing files, extracts and organises issue information, updates the project register, manages document revisions and recipients, and generates a final PDF issue register for distribution.
+A bespoke **C# WinForms desktop application** developed to automate the preparation and completion of Document Issue Registers within the AEC (Architecture, Engineering & Construction) industry.
 
-Designed around an established AEC document-control workflow, the application integrates directly with existing **Excel registers, PDF drawings and Windows file-system processes**, allowing users to automate the task without changing the underlying project documentation structure.
+Document Issue Registers are commonly maintained as bespoke Excel workbooks, with each organisation using its own structure, formatting, document requirements and issue workflows. This makes a universal solution impractical; however, where a defined register format and workflow are established, significant parts of the process can be automated.
 
-The result is a purpose-built desktop automation solution that reduces manual data entry, improves consistency and validation, and significantly reduces the time required to prepare a complete Document Issue Register.
+The Auto Document Issue Register Updater demonstrates this approach by combining **PDF drawing discovery and validation, Excel register integration, document revision management, recipient management, issue controls and automated PDF generation** into a single desktop workflow.
 
+The application is designed to work alongside existing project documentation and file-system processes rather than requiring organisations to replace their established register format or introduce a new document-management platform.
 
-**Repository note**
+### Repository Scope
 
-The production application source code is private because Auto Document Issue Register Updater was developed as a test case. This repository intentionally contains the public technical documentation, screenshots and video demonstration rather than the proprietary application source.
+The production application was developed as a bespoke solution and its source code is therefore private. This repository provides the **technical documentation, application screenshots, architecture overview, user guide and demonstration material** for the solution.
+
 
 ## At a Glance
 
