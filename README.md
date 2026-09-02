@@ -4,7 +4,7 @@
 ![License](https://img.shields.io/github/license/egandavidpatrick-del/saubon-synogen)
 ![Last Commit](https://img.shields.io/github/last-commit/egandavidpatrick-del/saubon-synogen)
 
-#  Auto Document Issue Register Updater
+#  Auto Document Issue Register Updater (Test Case)
 
 <b>On-premises Auto Document Issue Register Updater for AEC organisations</b>
 
