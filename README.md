@@ -214,6 +214,16 @@ This reduces time spent searching for project directories, improves coordination
 <a id="results"></a>
 ## 📊 Results
 
+- Completes Document Issue Register in seconds vs hours manually
+- Eliminates manual data entry for 10+ drawings - auto-detected from drawings directory
+- Eliminates file naming errors - auto-generates Document Issue Register 02-09-26.pdf
+- Eliminates directory navigation errors - fixed input/output paths to P:\2019 Projects\...01_Standards\
+- Ensures consistent recipient information across all issues
+- Ensures consistent revision control for contract specs - T1, X tracking
+- Ensures mandatory fields are completed - Issued For, Document Delivery, Sheet Size
+- Generates both Excel Document Issue Register.xls and PDF output simultaneously
+- Provides one-click access to register, drawing folder, and PDF via Open buttons
+- Standardises document issue workflow across AEC projects
 
 
 [Back to top](#enterprise-project)
