@@ -4,28 +4,22 @@
 ![License](https://img.shields.io/github/license/egandavidpatrick-del/saubon-synogen)
 ![Last Commit](https://img.shields.io/github/last-commit/egandavidpatrick-del/saubon-synogen)
 
-#  Multi-User Project Navigator
+#  Auto Document Issue Register Updater
 
-<b>On-premises multi-user project directory management for AEC organisations</b>
+<b>On-premises Auto Document Issue Register Updater for AEC organisations</b>
 
-Project Navigator provides a centralised, searchable catalogue of thousands of engineering and construction project directories.
+Auto Document Issue Register Updater have been designed to make completing a document issue easier and paractical.
 
-Built with <b>PHP, MariaDB, JavaScript and C#,</b> the platform provides authentication, role-based access, project management and concurrent multi-user access.
-
-Its companion <b>Enola</b> service provides autonomous stale-record recovery and primary/backup failover so abandoned browser sessions don't leave records permanently locked.
-
-<b>Source code is private</b> because the production system was developed for an internal company environment. This repository provides the public architecture, documentation, screenshots and demonstrations.
+Built with <b>as a Winforms C#,</b> application.
 
 **Repository note**
 
-The production application source code is private because Project Navigator was developed for an internal company environment. This repository intentionally contains the public technical documentation, architecture, screenshots, video demonstrations and deployment guidance rather than the proprietary application source.
+The production application source code is private because Auto Document Issue Register Updater was developed for an internal company environment. This repository intentionally contains the public technical documentation, screenshots, video demonstrations and deployment guidance rather than the proprietary application source.
 
 ## At a Glance
 
-✔ Full-stack enterprise web application
+✔ Full-stack enterprise Winforms application
 ✔ Secure authentication and authorisation
-✔ Modern user interface
-✔ Role-based access control
 ✔ Comprehensive documentation
 
 # The problem
