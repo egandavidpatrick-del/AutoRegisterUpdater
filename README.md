@@ -272,6 +272,6 @@ It enforces mandatory completion of Issued For, Document Delivery and Sheet Size
 
 David Egan
 
-Sole Software Developer, Systems Designer, and Solutions Architect for the Auto Document Issue Register Updater (Custom Desktop Utility Application)
+Sole Software Developer, Systems Designer, and Solutions Architect for the Auto Document Issue Register Updater (Case Study – Proprietary Production Application)
 
 <a href="https://www.linkedin.com/in/davidpatrickegan">LinkedIn</a> 
