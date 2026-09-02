@@ -6,17 +6,16 @@
 
 #  Auto Document Issue Register Updater (Case Study – Proprietary Production Application)
 
-The Auto Document Issue Register Updater application I present to you today is a test-case application designed to demonstrate the potential of automating Document Issue Register completion.
+# Auto Document Issue Register Updater
 
-Because Document Issue Registers vary significantly between organisations, they are typically maintained as bespoke Excel spreadsheets. Each company has its own interpretation of what a Document Issue Register should contain and how it should be presented, resulting in differences in structure, formatting, typography, layouts, and workflows.
+A bespoke **C# WinForms desktop application** developed to automate the preparation and issue of Document Issue Registers within AEC project environments.
 
-As a result, developing a single, unified solution capable of accommodating every possible Document Issue Register is not practical. The diversity in design and organisational requirements means that each register may require a tailored approach.
+The application replaces a traditionally manual, repetitive Excel-based workflow with a controlled process that validates drawing files, extracts and organises issue information, updates the project register, manages document revisions and recipients, and generates a final PDF issue register for distribution.
 
-The Auto Document Issue Register Updater application presented in this repository demonstrates what can be achieved through the automation of Document Issue Register completion. As a test case, it is not intended to serve as a universal solution for every organisation. Instead, it provides a practical demonstration of how automation can streamline, simplify, and improve the process of completing and maintaining a Document Issue Register within a defined format.
+Designed around an established AEC document-control workflow, the application integrates directly with existing **Excel registers, PDF drawings and Windows file-system processes**, allowing users to automate the task without changing the underlying project documentation structure.
 
+The result is a purpose-built desktop automation solution that reduces manual data entry, improves consistency and validation, and significantly reduces the time required to prepare a complete Document Issue Register.
 
-
-A <b>C# WinForms desktop application</b> that automates the completion and issuance of bespoke AEC Document Issue Registers, reducing a manual multi-hour process to seconds.
 
 **Repository note**
 
