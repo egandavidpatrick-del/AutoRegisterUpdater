@@ -169,7 +169,7 @@ This is a standalone on-premises WinForms C# desktop application.
 
 [Back to top](#enterprise-project)
 <a id="screenshots-project-navigator--enola"></a>
-## 🖼️ Screenshots Auto Document Issue Register Updater
+## 🖼️ Screenshots Auto Document Issue Register Updater (Test Case)
 
 <h3>Auto Document Issue Register Updater - File Menu & Help Menu Options</h3>
 
