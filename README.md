@@ -199,7 +199,7 @@ By consolidating project directory information into a unified catalogue system, 
 <a id="who-is-it-for"></a>
 ## 👥 Who Is It For?
 
-Complete a Document Issue Register is usually done by the following people:
+Completing a Document Issue Register can be done by the following people:
 
 * Architects
 * Engineers
