@@ -137,22 +137,26 @@ This is a standalone on-premises WinForms C# desktop application - different fro
 Single-form UI shown in images/image1.png
 Grouped panels: Register File, Register Directory, Drawings Directory, PDF Output, Recipients List, Contract Specs, Supporting Docs, Issued For, Delivery, Sheet Size
 Browse dialogs, date picker 02-09-26, checkboxes with revision textboxes, radio groups, action buttons - Clear, Open, View, Update Register
+
 2. File System Layer
 
 Input: Scans Mechanical or Electrical Drawings Directory Containing PDF Files - C:\...\Drawings PDF\P2\ - counts [ 10 Drawing(s) ]
 Input: Reads P:\2019 Projects\19L233 Oaklands School Fire Alarm Installation\05_RESOURCES\01_Standards\
 Output: Writes to Document Issue Register Output PDF Directory
+
 3. Data Processing Layer
 
 Excel Interop: Opens Document Issue Register.xls, populates drawing list, revision, date, recipients, issued for, delivery
 PDF Generation: Creates Document Issue Register 02-09-26.pdf - A4/A3 selectable
 Revision Manager: Handles T1 / X revision values for 7 optional documents - Electrical/Mechanical Spec/Pricing + Design Risk Assessment, Inspection Plan, BCAR Schedule
+
 4. Integration Layer
 
 Open Register in Excel - Process.Start Excel
 Open Drawing Directory / Open Register Directory - File Explorer
 View Register PDF - Default PDF viewer
 No database - operates directly on file system and Excel
+
 5. Deployment
 
 Built with Microsoft Visual Studio 2022
@@ -172,7 +176,7 @@ All data stays local/on-prem file server
   <img src="./images/image2.png" width="49%" alt="alt="Auto Document Issue Register  - File Menu Options">
   <img src="./images/image3.png" width="49%" alt="Auto Document Issue Register - Help Menu Options">
 </p>
-<h3>About Box</h3>
+<h3>Auto Document Issue Register - About Dialog</h3>
 <p align="left">
 <img src="/images/image4.png" width="99%" alt="alt="Auto Document Issue Register - About Box">
 </p>
