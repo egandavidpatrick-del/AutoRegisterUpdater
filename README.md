@@ -223,7 +223,11 @@ Completing a Document Issue Register can be done by the following people:
 
 Auto Document Issue Register Updater is better than the traditional manual workflow because it replaces a tedious, time-consuming and error-intensive task that typically takes hours with a single-click process that completes a register in seconds. 
 
-Instead of manually typing drawing names, dates and recipient details from a folder containing 10 or more PDFs like C:\...\Drawings PDF\P2\, the application auto-detects the drawings, auto-generates the dated PDF name Document Issue Register 02-09-26.pdf, and locks input and output to the correct standards folder P:\2019 Projects\...01_Standards\. It enforces mandatory completion of Issued For, Document Delivery and Sheet Size, maintains consistent revision control for electrical and mechanical specifications and supporting documents, centralizes the eight AEC recipient roles with initials, and simultaneously generates both the Excel register and PDF output with instant access via Open in Excel and View PDF, eliminating copy/paste errors, inconsistent paths and missing fields while keeping all data on-premises.
+The software imposes aggressive drawing file import validation rules, only accepting valid PDF drawings from the selected directory and auto-detecting the drawing count in the title bar before any update can proceed. 
+
+Instead of manually typing drawing names, dates and recipient details, it auto-generates the dated PDF register and locks input and output to the correct project standards location. 
+
+It enforces mandatory completion of Issued For, Document Delivery and Sheet Size, maintains consistent revision control for electrical and mechanical specifications and supporting documents, centralises the eight AEC recipient roles with initials, and simultaneously generates both the Excel register and PDF output with instant access via Open in Excel and View PDF, eliminating copy and paste errors, inconsistent file locations and missing fields while keeping all data on-premises.
 
 ---
 [Back to top](#enterprise-project)
