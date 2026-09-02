@@ -363,7 +363,6 @@ The platform provides a shared catalogue of project information across the organ
 
 By consolidating project directory information into a unified catalogue system, the solution improves efficiency, strengthens knowledge retention, and supports faster access to the information required for construction decision-making.
 
-
 ---
 [Back to top](#enterprise-project)
 <a id="who-is-it-for"></a>
@@ -371,14 +370,11 @@ By consolidating project directory information into a unified catalogue system, 
 
 Designed for AEC organisations managing multi-user engineering workflows involving:
 
-* Project Managers
 * Architects
 * Engineers
-* BIM Information Managers
 * BIM Coordinators
 * BIM Technicians
 * CAD Technicians
-* Consultants
 * Contractors
 * Document Controllers
 
@@ -403,37 +399,24 @@ This reduces time spent searching for project directories, improves coordination
 
 **Development and Test Environment**
 
-- Developed and tested on Windows 11 Pro using XAMPP, Apache, PHP, MariaDB and Visual Studio 2022.
+- Developed and tested on Windows 11 Pro box.
 
 **Software Requirements**
-- XAMPP
-- Apache 
-- MariaDB Database
-  
-**Network Requirements**
-- Internet connection
+- Microsoft Office 365 Installed on users computer.
 
 ---
 [Back to top](#enterprise-project)
 <a id="live-demo"></a>
 ## 🔴 Live Demo
 
-[Project Navigator Search all Projects Demo](https://youtu.be/Vg66_TL9fbM)
-
-[Enola Asynchronous Record Unlocking Client Demo](https://youtu.be/aePvmlm38h4)
+[Auto Document Issue Register Updater Demo](https://youtu.be/Vg66_TL9fbM)
 
 ---
 [Back to top](#enterprise-project)
 <a id="results"></a>
 ## 📊 Results
 
-- Eliminated manual searching through large project directory structures.
-- Centralised project discovery into a searchable multi-user platform.
-- Reduced the risk of conflicting edits through record locking.
-- Automatically recovers abandoned locks without administrator intervention.
-- Maintains lock-recovery availability through primary/backup failover.
-- Provides controlled access through authentication and role-based administration.
-- Keeps project data and infrastructure within the organisation's on-premises environment.
+
 
 [Back to top](#enterprise-project)
 <a id="project-status"></a>
@@ -448,6 +431,6 @@ This reduces time spent searching for project directories, improves coordination
 
 David Egan
 
-Sole Software Developer, Systems Designer, and Solutions Architect for the Multi-User Project Navigator Platform
+Sole Software Developer, Systems Designer, and Solutions Architect for the Auto Document Issue Register Updater
 
 <a href="https://www.linkedin.com/in/davidpatrickegan">LinkedIn</a> 
