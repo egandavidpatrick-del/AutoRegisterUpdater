@@ -215,32 +215,6 @@ Once deployed, the Project Navigator system operates autonomously.
 
 ---
 
-<h3>Enola :- Server is running & Enola :- Server is stopped</h3>
-
-<p align="left">
-  <img src="./images/enola-server/image1.png" width="49%">
-  <img src="./images/enola-server/image2.png" width="49%">
-</p>
-
-
-<h3>Enola :- About & Enola :- Server is running</h3>
-
-<p align="left">
-  <img src="./images/enola-server/image3.png" width="49%">
-  <img src="./images/enola-server/image4.png" width="49%">
-</p>
-
-<h3>Enola :- Server is stopped & Enola :- Only one enola client instance allowed to run</h3>
-
-<p align="left">
-  <img src="./images/enola-server/image5.png" width="49%">
-  <img src="./images/enola-server/image6.png" width="49%">
-</p>
-💡 **Tip:** Click the image for the full-size version.
-
----
-
-
 <a id="solution"></a>
 [Back to top](#enterprise-project)
 ## 💡 Solution
