@@ -85,18 +85,22 @@ This repository includes:
 <a id="key-features"></a>
 ## ✨Key Features
 
-- Project Search — Quickly find projects by structured metadata.
-- Project Management — Create, edit, and manage project records.
-- Directory Navigation — Open project locations directly from Navigator.
-- Multi-User Access — Multiple users can work concurrently.
-- Record Locking — Prevents conflicting edits or deletes.
-- Automatic Lock Recovery — Enola releases abandoned/stale locks.
-- Primary/Backup Failover — Enola maintains lock-recovery availability.
-- Authentication & Authorisation — Account and role-based access control.
-- Administration Portal — Manage users, permissions and system data.
-- Account Recovery — Email-assisted password recovery.
-- Audit/Operational Logging — Records important system/service activity.
-- On-Premises Deployment — Runs within the organisation's existing infrastructure.
+- Auto-detects PDF drawings in selected directory - shows [ 10 Drawing(s) ] count in title bar
+- Browse and link to Document Issue Register Excel file - Document Issue Register.xls
+- Sets Document Issue Register Directory - P:\2019 Projects\...\_Standards\
+- Sets Mechanical / Electrical Drawings Directory containing PDFs
+- Auto-generates Document Issue Register PDF File Name - Document Issue Register 02-09-26.pdf
+- Sets Document Issue Register Output PDF Directory
+- Manages Recipients List - Client, Architect, Project Manager, Quantity Surveyor, Main Contractor, Mechanical Contractor, Electrical Contractor, Structural Engineer with Initials + Name fields
+- Issue Date picker - 02-09-26
+- Clear controls - Clear Recipients List, Clear Issue Register Fields, Clear Drawing Fields, Clear All Revisions Fields
+- Open in Excel / Open Drawing Directory / Open Register Directory / View Register PDF
+- Optional Contract Specification Documents with Revision - Electrical Contract Specification, Electrical Pricing Document, Mechanical Contract Specification, Mechanical Pricing Document
+- Optional Additional Supporting Documentation with Revision - Design Risk Assessment, Preliminary Inspection Plan, BCAR M&E Submittal Schedule
+- Issued For - Mandatory - Preliminary, Tender, Information, Scheme, Planning, Construction
+- Document Delivery - Mandatory - Prints, Shared Folder, WeTransfer, Email
+- PDF Output Sheet Size - A4 / A3
+- One-click Update Register - updates Excel and generates PDF register
 
 ---
 [Back to top](#enterprise-project)
