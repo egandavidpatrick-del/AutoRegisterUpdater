@@ -199,14 +199,13 @@ By consolidating project directory information into a unified catalogue system, 
 <a id="who-is-it-for"></a>
 ## 👥 Who Is It For?
 
-Designed for AEC organisations managing multi-user engineering workflows involving:
+Complete a Document Issue Register is usually done by the following people:
 
 * Architects
 * Engineers
 * BIM Coordinators
 * BIM Technicians
 * CAD Technicians
-* Contractors
 * Document Controllers
 
 ---
