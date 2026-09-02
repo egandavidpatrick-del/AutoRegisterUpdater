@@ -127,6 +127,34 @@ If your company’s directory structure aligns with the sample directory structu
 --- 
 
 [Back to top](#enterprise-project)
+<a id="enola-architecture"></a>
+## 🏗️ Auto Document Issue Register Architecture 
+<h3>Enola Asynchronous Servers: Two Hearts, Two Heart Beats, One Pulse - Fire and Forget</h3>
+
+The system uses a dual-mode Enola client & service backend, packaged as a single x64-bit executable with a dedicated installer for automated setup and configuration.
+
+<h3>Enola Visible Client App</h3>
+Asynchronous user-facing server instance responsible for:
+
+- Monitoring: Real-time status and user activity
+- Full record unlocking traceability: Tracks who unlocks projects and user_accounts records
+- Operational logging: User-level events and errors
+- Automated health monitoring: Client-side diagnostics
+  
+<h3>Enola Hidden Service App</h3>
+Asynchronous background server responsible for:
+
+- Background monitoring: Continuous system checks when client is closed or stopping the client server
+- Takeover record unlocking: Becomes Primary Unlocker status on client exit or stopping the client server
+- Full record unlocking traceability: Tracks who unlocks projects and user_accounts records
+- Operational logging: Service-level events and errors
+- Automated health monitoring: Backend diagnostics
+  
+Primary Unlocker mechanism: Only one instance holds unlock rights for projects and user_accounts tables at a time. The Enola Visible Client App holds Primary Unlocker during active use. On client shutdown or stopping the client server, the Enola Hidden Service App automatically takes over. When the file server boots up the Enola Hidden Service App by default it the Primary Unlocker.
+
+---
+
+[Back to top](#enterprise-project)
 <a id="screenshots-project-navigator--enola"></a>
 ## 🖼️ Screenshots Auto Document Issue Register
 
