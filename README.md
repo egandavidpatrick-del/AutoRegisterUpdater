@@ -120,11 +120,6 @@ This repository includes:
 
 - Microsoft Visual Studio 2022 Installer Projects
 --- 
-## Does your workflow fit the Project Navigator way of working?
-
-If your company’s directory structure aligns with the sample directory structures defined above, the Project Navigator web application can be adapted and used to manage and coordinate the project directory workflow throughout your organisation.
-
---- 
 
 [Back to top](#enterprise-project)
 <a id="enola-architecture"></a>
