@@ -16,7 +16,7 @@ The Auto Document Issue Register Updater application presented in this repositor
 
 
 
-Built with <b>as a Winforms C#,</b> application.
+A <b>C# WinForms desktop application</b> that automates the completion and issuance of bespoke AEC Document Issue Registers, reducing a manual multi-hour process to seconds.
 
 **Repository note**
 
