@@ -163,7 +163,7 @@ This is a standalone on-premises WinForms C# desktop application.
 
 - Built with Microsoft Visual Studio 2022
 - Packaged as x64 executable via Microsoft Visual Studio 2022 Installer Projects
-- Runs on Windows 10/11 Pro
+- Runs on Windows 11 Pro
 - All data stays local/on-prem file server
 
 ---
