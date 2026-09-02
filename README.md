@@ -134,7 +134,7 @@ This is a standalone on-premises WinForms C# desktop application.
 
 **1. Presentation Layer - WinForms UI**
 
--Single-form UI shown above hero image
+- Single-form UI shown above hero image
 - Grouped panels: Register File, Register Directory, Drawings Directory, PDF Output, Recipients List, Contract Specs, Supporting Docs, Issued For, Delivery, Sheet Size
 - Browse dialogs, date picker 02-09-26, checkboxes with revision textboxes, radio groups, action buttons - Clear, Open, View, Update Register
 
