@@ -122,42 +122,6 @@ If your company’s directory structure aligns with the sample directory structu
 
 --- 
 
-## Project Navigator and Enola Deployment Architecture
-
-The Navigator system consists of approximately 62 PHP scripts that collectively define the Navigator web application. This application represents the user-facing side of the system and is the primary interface through which users interact with the platform.
-
-Enola, by contrast, functions as the backend service layer of the overall system architecture.
-
-The intended deployment model for both Navigator and Enola is an on-premises company file server environment. All application data is stored locally within the company infrastructure rather than in external cloud services.
-
-The deployment stack is based on XAMPP, which provides the core runtime environment, including:
-
-* Apache as the web server
-* PHP as the application runtime
-* MariaDB as the database server
-
-Typically, the Navigator web application is deployed under Apache within the XAMPP environment.
-
-MariaDB hosts the application databases and tables, including:
-
-* The `projects` database and corresponding `projects` table
-* The `accounts` database and corresponding `user_accounts` table
-
-Enola is designed to operate as a continuously running backend service. Its primary responsibility is to connect to the MariaDB server and monitor both the `projects` and `user_accounts` tables for locked records.
-
-Enola polls these tables approximately once per second. If locked records are detected, Enola evaluates the age of the lock. Any record that has remained locked for five minutes or longer is automatically unlocked by Enola.
-
-This automatic unlocking process applies to both:
-
-* project records within the `projects` table
-* user account records within the `user_accounts` table
-
-The purpose of this mechanism is to prevent stale or abandoned record locks from persisting indefinitely, thereby maintaining record accessibility and operational continuity for users of the Project Navigator application.
-
-Once deployed, the Project Navigator system operates autonomously.
-
---- 
-
 [Back to top](#enterprise-project)
 <a id="screenshots-project-navigator--enola"></a>
 ## 🖼️ Screenshots Auto Document Issue Register
