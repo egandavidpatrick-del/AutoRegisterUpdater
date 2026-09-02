@@ -129,28 +129,36 @@ If your company’s directory structure aligns with the sample directory structu
 [Back to top](#enterprise-project)
 <a id="enola-architecture"></a>
 ## 🏗️ Auto Document Issue Register Architecture 
-<h3>Enola Asynchronous Servers: Two Hearts, Two Heart Beats, One Pulse - Fire and Forget</h3>
 
-The system uses a dual-mode Enola client & service backend, packaged as a single x64-bit executable with a dedicated installer for automated setup and configuration.
+This is a standalone on-premises WinForms C# desktop application - different from your Project Navigator + Enola PHP/MariaDB stack.
 
-<h3>Enola Visible Client App</h3>
-Asynchronous user-facing server instance responsible for:
+1. Presentation Layer - WinForms UI
 
-- Monitoring: Real-time status and user activity
-- Full record unlocking traceability: Tracks who unlocks projects and user_accounts records
-- Operational logging: User-level events and errors
-- Automated health monitoring: Client-side diagnostics
-  
-<h3>Enola Hidden Service App</h3>
-Asynchronous background server responsible for:
+Single-form UI shown in images/image1.png
+Grouped panels: Register File, Register Directory, Drawings Directory, PDF Output, Recipients List, Contract Specs, Supporting Docs, Issued For, Delivery, Sheet Size
+Browse dialogs, date picker 02-09-26, checkboxes with revision textboxes, radio groups, action buttons - Clear, Open, View, Update Register
+2. File System Layer
 
-- Background monitoring: Continuous system checks when client is closed or stopping the client server
-- Takeover record unlocking: Becomes Primary Unlocker status on client exit or stopping the client server
-- Full record unlocking traceability: Tracks who unlocks projects and user_accounts records
-- Operational logging: Service-level events and errors
-- Automated health monitoring: Backend diagnostics
-  
-Primary Unlocker mechanism: Only one instance holds unlock rights for projects and user_accounts tables at a time. The Enola Visible Client App holds Primary Unlocker during active use. On client shutdown or stopping the client server, the Enola Hidden Service App automatically takes over. When the file server boots up the Enola Hidden Service App by default it the Primary Unlocker.
+Input: Scans Mechanical or Electrical Drawings Directory Containing PDF Files - C:\...\Drawings PDF\P2\ - counts [ 10 Drawing(s) ]
+Input: Reads P:\2019 Projects\19L233 Oaklands School Fire Alarm Installation\05_RESOURCES\01_Standards\
+Output: Writes to Document Issue Register Output PDF Directory
+3. Data Processing Layer
+
+Excel Interop: Opens Document Issue Register.xls, populates drawing list, revision, date, recipients, issued for, delivery
+PDF Generation: Creates Document Issue Register 02-09-26.pdf - A4/A3 selectable
+Revision Manager: Handles T1 / X revision values for 7 optional documents - Electrical/Mechanical Spec/Pricing + Design Risk Assessment, Inspection Plan, BCAR Schedule
+4. Integration Layer
+
+Open Register in Excel - Process.Start Excel
+Open Drawing Directory / Open Register Directory - File Explorer
+View Register PDF - Default PDF viewer
+No database - operates directly on file system and Excel
+5. Deployment
+
+Built with Microsoft Visual Studio 2022
+Packaged as x64 executable via Installer Project
+Runs on Windows 10/11 Pro - no XAMPP/Apache/MariaDB dependency like Navigator
+All data stays local/on-prem file server
 
 ---
 
