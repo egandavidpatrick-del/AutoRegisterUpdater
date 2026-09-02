@@ -259,9 +259,9 @@ It enforces mandatory completion of Issued For, Document Delivery and Sheet Size
 - Eliminates manual data entry for 10+ drawings - auto-detected from drawings directory
 - Eliminates file naming errors - auto-generates Document Issue Register 02-09-26.pdf
 - Eliminates directory navigation errors - fixed input/output paths to P:\2019 Projects\...01_Standards\
-- Ensures consistent recipient information across all issues
-- Ensures consistent revision control for contract specs - T1, X tracking
-- Ensures mandatory fields are completed - Issued For, Document Delivery, Sheet Size
+- Ensures consistent recipient information for the current issue
+- Ensures consistent revision control for contract specs - T1, X tracking for the current issue
+- Ensures mandatory fields are completed - Issued For, Document Delivery, Sheet Size for the current issue
 - Generates both Excel Document Issue Register.xls and PDF output simultaneously
 - Provides one-click access to register, drawing folder, and PDF via Open buttons
 - Standardises document issue workflow across AEC projects
