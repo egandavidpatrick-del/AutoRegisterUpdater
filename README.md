@@ -32,7 +32,7 @@ Completing a Document Issue register typically is a time consuming, tedious and 
 
 <i>Auto Document Issue Register Updater allows the user to complete a Document Issue Register the quick and easy way.</i>
 <p align="left">
-<img src="/images/image1.png" width=100%" alt="Auto Document Issue Updater Main User Interface">
+<img src="/images/image1.png" width="100%" alt="Auto Document Issue Updater Main User Interface">
 </p>
 💡 **Tip:** Click the hero image to view the full-size version.
 
@@ -175,6 +175,10 @@ This is a standalone on-premises WinForms C# desktop application.
 <p align="left">
   <img src="./images/image4.png" width="49%" alt="alt="Auto Document Issue Register  - File Menu Options">
   <img src="./images/image5.png" width="49%" alt="Auto Document Issue Register - Help Menu Options">
+</p>
+<h3>Auto Document Issue Register Updater - Only one Instance of Auto Document Issue Register Updater allowed to operate</h3>
+<p align="left">
+<img src="/images/image6.png" width="99%" alt="Auto Document Issue Updater Main User Interface">
 </p>
 
 💡 **Tip:** Click the image for the full-size version.
