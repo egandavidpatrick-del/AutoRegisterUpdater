@@ -33,7 +33,7 @@ Completing a Document Issue register typically is a time consuming, tedious and 
 
 <i>Auto Document Issue Register Updater allows the user to complete a Document Issue Register the quick and easy way.</i>
 <p align="left">
-<img src="./images/image1.png" width=100%" alt="Auto Document Issue Updater Main UI">
+<img src="/images/image1.png" width=100%" alt="Auto Document Issue Updater Main UI">
 </p>
 💡 **Tip:** Click the hero image to view the full-size version.
 
