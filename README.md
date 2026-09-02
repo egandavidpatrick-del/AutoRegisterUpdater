@@ -170,7 +170,7 @@ Once deployed, the Project Navigator system operates autonomously.
 </p>
 <h3>About Box</h3>
 <p align="left">
-<img src="/images/image4.png" width=100%" alt="About Box">
+<img src="/images/image4.png" width="99%" alt="About Box">
 </p>
 
 💡 **Tip:** Click the image for the full-size version.
