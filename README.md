@@ -78,7 +78,7 @@ The Auto Document Issue Register Updater was originally developed for the AEC (A
 
 This repository includes:
 
-* User Guides
+* User Guide
 * Application Screenshots
 ---
 [Back to top](#enterprise-project)
