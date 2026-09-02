@@ -4,7 +4,7 @@
 ![License](https://img.shields.io/github/license/egandavidpatrick-del/saubon-synogen)
 ![Last Commit](https://img.shields.io/github/last-commit/egandavidpatrick-del/saubon-synogen)
 
-#  Auto Document Issue Register Updater (Custom Desktop Utility Application)
+#  Auto Document Issue Register Updater (Case Study – Proprietary Production Application)
 
 The Auto Document Issue Register Updater application I present to you today is a test-case application designed to demonstrate the potential of automating Document Issue Register completion.
 
@@ -31,7 +31,7 @@ The production application source code is private because Auto Document Issue Re
 
 Completing a Document Issue register typically is a time consuming, tedious and error intensive task completed manually. This manual approach is how most organisations complete a Document Issue Register even today.
 
-# 🧭 Auto Document Issue Register Updater (Custom Desktop Utility Application)
+# 🧭 Auto Document Issue Register Updater (Case Study – Proprietary Production Application)
 <h3>Complete a Document Issue Register in Seconds</h3> 
 
 ---
@@ -130,7 +130,7 @@ This repository includes:
 
 [Back to top](#enterprise-project)
 <a id="enola-architecture"></a>
-## 🏗️ Auto Document Issue Register Updater (Custom Desktop Utility Application) Architecture 
+## 🏗️ Auto Document Issue Register Updater (Case Study – Proprietary Production Application) Architecture 
 
 This is a standalone on-premises WinForms C# desktop application.
 
@@ -170,7 +170,7 @@ This is a standalone on-premises WinForms C# desktop application.
 
 [Back to top](#enterprise-project)
 <a id="screenshots-project-navigator--enola"></a>
-## 🖼️ Screenshots Auto Document Issue Register Updater (Custom Desktop Utility Application)
+## 🖼️ Screenshots Auto Document Issue Register Updater (Case Study – Proprietary Production Application)
 
 <h3>Auto Document Issue Register Updater - File Menu & Help Menu Options</h3>
 
