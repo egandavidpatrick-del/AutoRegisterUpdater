@@ -4,7 +4,7 @@
 ![License](https://img.shields.io/github/license/egandavidpatrick-del/saubon-synogen)
 ![Last Commit](https://img.shields.io/github/last-commit/egandavidpatrick-del/saubon-synogen)
 
-#  Auto Document Issue Register Updater (Case Study – Proprietary Production Application)
+#  Auto Document Issue Register Updater (Case Study – Custom Utility Application)
 
 A bespoke **C# WinForms desktop application** developed to automate the preparation and completion of Document Issue Registers within the AEC (Architecture, Engineering & Construction) industry.
 
@@ -28,7 +28,7 @@ The production application was developed as a bespoke solution and its source co
 
 Completing a Document Issue register typically is a time consuming, tedious and error intensive task completed manually. This manual approach is how most organisations complete a Document Issue Register even today.
 
-# 🧭 Auto Document Issue Register Updater (Case Study – Proprietary Production Application)
+# 🧭 Auto Document Issue Register Updater (Case Study – Custom Utility Application)
 
 <i>Auto Document Issue Register Updater allows the user to complete a Document Issue Register the quick and easy way.</i>
 <p align="left">
@@ -123,7 +123,7 @@ This repository includes:
 
 [Back to top](#enterprise-project)
 <a id="enola-architecture"></a>
-## 🏗️ Auto Document Issue Register Updater (Case Study – Proprietary Production Application) Architecture 
+## 🏗️ Auto Document Issue Register Updater (Case Study – Custom Utility Application) Architecture 
 
 This is a standalone on-premises WinForms C# desktop application.
 
@@ -163,7 +163,7 @@ This is a standalone on-premises WinForms C# desktop application.
 
 [Back to top](#enterprise-project)
 <a id="screenshots-project-navigator--enola"></a>
-## 🖼️ Screenshots Auto Document Issue Register Updater (Case Study – Proprietary Production Application)
+## 🖼️ Screenshots Auto Document Issue Register Updater (Case Study – Custom Utility Application)
 
 <h3>Auto Document Issue Register Updater - File Menu & Help Menu Options</h3>
 
@@ -276,6 +276,6 @@ It enforces mandatory completion of Issued For, Document Delivery and Sheet Size
 
 David Egan
 
-Sole Software Developer, Systems Designer, and Solutions Architect for the Auto Document Issue Register Updater (Case Study – Proprietary Production Application)
+Sole Software Developer, Systems Designer, and Solutions Architect for the Auto Document Issue Register Updater (Case Study – Custom Utility Application)
 
 <a href="https://www.linkedin.com/in/davidpatrickegan">LinkedIn</a> 
