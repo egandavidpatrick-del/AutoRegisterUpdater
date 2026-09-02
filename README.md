@@ -195,7 +195,7 @@ The application solves the manual, time-consuming and error-prone process of com
 
 How it works:
 
-1. User selects the master Excel register - Document Issue Register.xls and its project directory
+1. User selects the master Excel register - Document Issue Register.xls or Document Issue Register.xlsx
 2. User points to a folder containing Mechanical or Electrical PDF drawings - app auto-detects [ 10 Drawing(s) ]
 3. User confirms Recipients List - Client, Architect, PM, QS, Contractors with initials
 4. User selects optional contract docs - Electrical / Mechanical Spec & Pricing with revision, plus supporting docs - Design Risk Assessment, Inspection Plan, BCAR Schedule
