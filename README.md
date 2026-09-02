@@ -262,7 +262,7 @@ It enforces mandatory completion of Issued For, Document Delivery and Sheet Size
 - Ensures consistent recipient information for the current issue
 - Ensures consistent revision control for contract specs - T1, X tracking for the current issue
 - Ensures mandatory fields are completed - Issued For, Document Delivery, Sheet Size for the current issue
-- Generates both Excel Document Issue Register.xls and PDF output simultaneously
+- Generates both Excel Document Issue Register.xls or Document Issue Register.xlsx and PDF output simultaneously
 - Provides one-click access to register, drawing folder, and PDF via Open buttons
 - Standardises document issue workflow across AEC projects
 
