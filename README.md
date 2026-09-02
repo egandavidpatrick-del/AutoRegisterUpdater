@@ -33,7 +33,7 @@ Completing a Document Issue register typically is a time consuming, tedious and 
 
 <i>Auto Document Issue Register Updater allows the user to complete a Document Issue Register the quick and easy way.</i>
 <p align="left">
-<img src="/images/image1.png" width=100%" alt="Auto Document Issue Updater Main UI">
+<img src="/images/image1.png" width=100%" alt="Auto Document Issue Updater Main User Interface">
 </p>
 💡 **Tip:** Click the hero image to view the full-size version.
 
@@ -165,12 +165,12 @@ Once deployed, the Project Navigator system operates autonomously.
 <h3>New User Registration & Login</h3>
 
 <p align="left">
-  <img src="./images/image2.png" width="49%" alt="File Menu Options">
-  <img src="./images/image3.png" width="49%" alt="Help Menu Options">
+  <img src="./images/image2.png" width="49%" alt="alt="Auto Document Issue Register  - File Menu Options">
+  <img src="./images/image3.png" width="49%" alt="Auto Document Issue Register - Help Menu Options">
 </p>
 <h3>About Box</h3>
 <p align="left">
-<img src="/images/image4.png" width="98%" alt="About Box">
+<img src="/images/image4.png" width="99%" alt="alt="Auto Document Issue Register - About Box">
 </p>
 
 💡 **Tip:** Click the image for the full-size version.
@@ -262,6 +262,6 @@ This reduces time spent searching for project directories, improves coordination
 
 David Egan
 
-Sole Software Developer, Systems Designer, and Solutions Architect for the Auto Document Issue Register Updater
+Sole Software Developer, Systems Designer, and Solutions Architect for the Auto Document Issue Register Updater Application
 
 <a href="https://www.linkedin.com/in/davidpatrickegan">LinkedIn</a> 
