@@ -14,7 +14,7 @@ Built with <b>as a Winforms C#,</b> application.
 
 **Repository note**
 
-The production application source code is private because Auto Document Issue Register Updater was developed for an internal company environment. This repository intentionally contains the public technical documentation, screenshots, video demonstrations and deployment guidance rather than the proprietary application source.
+The production application source code is private because Auto Document Issue Register Updater was developed for an internal company environment. This repository intentionally contains the public technical documentation, screenshots and video demonstration rather than the proprietary application source.
 
 ## At a Glance
 
