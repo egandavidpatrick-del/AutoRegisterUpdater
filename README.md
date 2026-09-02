@@ -162,55 +162,17 @@ Once deployed, the Project Navigator system operates autonomously.
 <a id="screenshots-project-navigator--enola"></a>
 ## 🖼️ Screenshots Auto Document Issue Register
 
-
-
 <h3>New User Registration & Login</h3>
 
 <p align="left">
-  <img src="./images/project-navigator/image7.gif" width="49%">
-  <img src="./images/project-navigator/image10.gif" width="49%">
+  <img src="./images/image2.png" width="49%" alt="File Menu Options">
+  <img src="./images/image3.png" width="49%" alt="Help Menu Options">
 </p>
-
-<h3>Account Recovery Email Retrieval & Username Retrieval</h3>
-
+<h3>About Box</h3>
 <p align="left">
-  <img src="./images/project-navigator/image11.gif" width="49%">
-  <img src="./images/project-navigator/image12.gif" width="49%">
+<img src="/images/image4.png" width=100%" alt="About Box">
 </p>
 
-<h3>Account Recovery Reset Password & Change Password</h3>
-
-<p align="left">
-  <img src="./images/project-navigator/image13.gif" width="49%">
-  <img src="./images/project-navigator/image14.gif" width="49%">
-</p>
-
-
-<h3>Search all Projects & Search Projects to Modify</h3>
-
-<p align="left">
-  <img src="./images/project-navigator/image2.gif" width="49%">
-  <img src="./images/project-navigator/image3.gif" width="49%">
-</p>
-
-<h3>Edit MyProfile & Create New Project Entry</h3>
-<p align="left">
-<img src="./images/project-navigator/image4.gif" width="49%">
-<img src="./images/project-navigator/image5.gif" width="49%">
-</p>
-
-<h3>Search Users to Modify Access Privileges & Grant/Revoke User Privileges</h3>
-<p align="left">
-<img src="./images/project-navigator/image6.gif" width="49%">
-<img src="./images/project-navigator/image15.gif" width="49%">
-</p>
-
-<h3>Project in use Notification & User account in use Notification</h3>
-
-<p align="left">
-  <img src="./images/project-navigator/image8.gif" width="49%">
-  <img src="./images/project-navigator/image9.gif" width="49%">
-</p>
 💡 **Tip:** Click the image for the full-size version.
 
 ---
