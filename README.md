@@ -21,7 +21,7 @@ The production application was developed as a bespoke solution and its source co
 
 ## At a Glance
 
-✔ Full-stack enterprise Winforms application
+✔ Winforms application
 ✔ Comprehensive documentation
 
 # The problem
