@@ -55,26 +55,11 @@ Completing a Document Issue register typically is a time consuming, tedious and 
 [Back to top](#enterprise-project)
 <a id="platform-overview"></a>
 ## 🌐 Platform Overview
-The Project Navigator Platform was originally developed for the AEC (Architecture, Engineering & Construction) industry, where organisations commonly manage projects using structured directory systems similar to the examples below.
+The Auto Document Issue Register Updater was originally developed for the AEC (Architecture, Engineering & Construction) industry, where organisations commonly update and maintain document issue registers.
 
 [Back to top](#enterprise-project)
 <a id="typical-engineering-project-directory-structure"></a>
 
-## BIM ISO 19650 Directory Structure
-```text
-P:\2026 Projects
-└── [26L001 PROJECT NAME]
-    ├── 00_README.txt
-    ├── 01_WIP
-    ├── 02_SHARED
-    ├── 03_PUBLISHED
-    ├── 04_ARCHIVE
-    ├── 05_RESOURCES
-    └── 06_INCOMING
-```
-Navigator is designed around structured AEC project directories inspired by ISO 19650 workflows. See the [ /guides/user-guides] for the full structure.
-
----
 [Back to top](#enterprise-project)
 <a id="repository-contents"></a>
 ## 📦 Repository Contents
