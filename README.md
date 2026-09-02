@@ -107,10 +107,10 @@ This repository includes:
 <a id="tech-stack"></a>
 ## 🛠 Tech Stack
 
-| Component          | Technology                        | Responsibility                                     |
-| ------------------ | --------------------------------- | -------------------------------------------------- |
-| Operator client    | C# WinForms                       | Auto Document Issue Register Client application    |
-
+| Component                  | Technology                        | Responsibility                                     |
+| -------------------------- | --------------------------------- | -------------------------------------------------- |
+| Operator client            | C# WinForms                       | Auto Document Issue Register Client application    |
+| Microsoft Interop Excel    | C# WinForms                       | Wrapper connection to Excel                        |
 
 <h4>Integrated Development Environment</h4>
 
