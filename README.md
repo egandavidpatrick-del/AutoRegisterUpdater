@@ -105,14 +105,7 @@ This repository includes:
 
 | Component          | Technology                        | Responsibility                                     |
 | ------------------ | --------------------------------- | -------------------------------------------------- |
-| Web UI             | PHP / HTML / CSS / Bootstrap / JS | User interface                                     |
-| Web application    | PHP                               | Authentication, project management, administration |
-| Database           | MariaDB                           | Shared application state                           |
-| Background service | C#                                | Lock monitoring/recovery                           |
-| Operator client    | C# WinForms                       | Enola Client application                           |
-| Email              | PHPMailer                         | Account recovery                                   |
-| Web server         | Apache                            | Application hosting                                |
-| Runtime            | XAMPP                             | On-prem deployment                                 |
+| Operator client    | C# WinForms                       | Auto Document Issue Register Client application    |
 
 
 <h4>Integrated Development Environment</h4>
