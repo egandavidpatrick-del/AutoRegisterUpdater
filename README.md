@@ -19,19 +19,11 @@ The production application source code is private because Auto Document Issue Re
 ## At a Glance
 
 ✔ Full-stack enterprise Winforms application
-✔ Secure authentication and authorisation
 ✔ Comprehensive documentation
 
 # The problem
 
-AEC organisations can accumulate thousands of project directories across shared network storage.
-
-Finding a historical project can mean navigating:
-```text
-P:\2026 Projects
- └── [26L001 PROJECT NAME]
-     └── WIP / Shared / Published / Archive / Resources / Incoming
-```
+Complete a Document Issue register typically is time consuming, tedious and error intensive task completed manually. The manual approach is how most organisations complete a Document Issue Register today.
 
 # 🧭 Multi-User Project Navigator
 <h3>Find Project Directories in Seconds</h3> 
