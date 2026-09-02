@@ -191,7 +191,7 @@ This is a standalone on-premises WinForms C# desktop application.
 [Back to top](#enterprise-project)
 ## 💡 Solution
 
-The application solves the manual, time-consuming and error-prone process of completing a Document Issue Register for AEC projects.
+The application solves the manual, time-consuming, tedious and error-prone process of completing a Document Issue Register for AEC projects.
 
 How it works:
 
