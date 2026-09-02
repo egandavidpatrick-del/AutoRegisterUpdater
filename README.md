@@ -6,8 +6,6 @@
 
 #  Auto Document Issue Register Updater (Case Study – Proprietary Production Application)
 
-# Auto Document Issue Register Updater
-
 A bespoke **C# WinForms desktop application** developed to automate the preparation and issue of Document Issue Registers within AEC project environments.
 
 The application replaces a traditionally manual, repetitive Excel-based workflow with a controlled process that validates drawing files, extracts and organises issue information, updates the project register, manages document revisions and recipients, and generates a final PDF issue register for distribution.
