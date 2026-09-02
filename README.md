@@ -221,14 +221,9 @@ Completing a Document Issue Register can be done by the following people:
 <a id="why-is-it-better-than-traditional-workflows"></a>
 ## 🚀 Why Is It Better Than Traditional Workflows?
 
-Instead of relying on disconnected directories, emails, spreadsheets, and local copies, the platform provides a centralised network-accessible project catalogue where all users operate from the same shared directory structure and project data.
+Auto Document Issue Register Updater is better than the traditional manual workflow because it replaces a tedious, time-consuming and error-intensive task that typically takes hours with a single-click process that completes a register in seconds. 
 
-This reduces time spent searching for project directories, improves coordination across teams, and ensures construction information remains:
-
-- Accessible
-- Structured
-- Consistently available
-- Shared across all users
+Instead of manually typing drawing names, dates and recipient details from a folder containing 10 or more PDFs like C:\...\Drawings PDF\P2\, the application auto-detects the drawings, auto-generates the dated PDF name Document Issue Register 02-09-26.pdf, and locks input and output to the correct standards folder P:\2019 Projects\...01_Standards\. It enforces mandatory completion of Issued For, Document Delivery and Sheet Size, maintains consistent revision control for electrical and mechanical specifications and supporting documents, centralizes the eight AEC recipient roles with initials, and simultaneously generates both the Excel register and PDF output with instant access via Open in Excel and View PDF, eliminating copy/paste errors, inconsistent paths and missing fields while keeping all data on-premises.
 
 ---
 [Back to top](#enterprise-project)
