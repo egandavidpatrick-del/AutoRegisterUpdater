@@ -143,7 +143,7 @@ This is a standalone on-premises WinForms C# desktop application.
 
 - Input: Scans Mechanical or Electrical Drawings Directory Containing PDF Files - C:\...\Drawings PDF\P2\ - counts [ 10 Drawing(s) ]
 - Input: Reads P:\2019 Projects\19L233 Oaklands School Fire Alarm Installation\05_RESOURCES\01_Standards\
-- Output: Writes to Document Issue Register Output PDF Directory
+- Output: Writes to Document Issue Register Output PDF Directory & Updates Excel Document Issue Register
 
 **3. Data Processing Layer**
 
