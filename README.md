@@ -63,7 +63,7 @@ The Auto Document Issue Register Updater was originally developed for the AEC (A
 
 ```text
 
-/guides/user-guides
+/guide/user-guide
   Auto Document Issue Register Updater User Guide Version 1.0.(PDF)
 
 /images/
