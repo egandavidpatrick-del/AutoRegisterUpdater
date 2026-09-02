@@ -6,8 +6,6 @@
 
 #  Auto Document Issue Register Updater (Test Case)
 
-<b>On-premises Auto Document Issue Register Updater for AEC organisations</b>
-
 The Auto Document Issue Register Updater application I present to you today is a test-case application designed to demonstrate the potential of automating Document Issue Register completion.
 
 Because Document Issue Registers vary significantly between organisations, they are typically maintained as bespoke Excel spreadsheets. Each company has its own interpretation of what a Document Issue Register should contain and how it should be presented, resulting in differences in structure, formatting, typography, layouts, and workflows.
