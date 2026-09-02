@@ -130,7 +130,7 @@ This repository includes:
 
 [Back to top](#enterprise-project)
 <a id="enola-architecture"></a>
-## 🏗️ Auto Document Issue Register Updater Architecture 
+## 🏗️ Auto Document Issue Register Updater (Custom Desktop Utility Application) Architecture 
 
 This is a standalone on-premises WinForms C# desktop application.
 
