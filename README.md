@@ -246,7 +246,7 @@ It enforces mandatory completion of Issued For, Document Delivery and Sheet Size
 <a id="live-demo"></a>
 ## 🔴 Live Demo
 
-[Auto Document Issue Register Updater Demo](https://youtu.be/jV8CS1iuwWs)
+[Auto Document Issue Register Updater Demo](https://youtu.be/PQxMIPeff3Q)
 
 ---
 [Back to top](#enterprise-project)
