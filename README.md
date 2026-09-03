@@ -109,10 +109,10 @@ This repository includes:
 <a id="tech-stack"></a>
 ## 🛠 Tech Stack
 
-| Component                  | Technology                        | Responsibility                                     |
-| -------------------------- | --------------------------------- | -------------------------------------------------- |
-| Operator client            | C# WinForms                       | Auto Document Issue Register Client application    |
-| Microsoft Interop Excel    | C# WinForms                       | Wrapper connection to Excel                        |
+| Component                           | Technology                                                                                               | Responsibility                                                                                   |
+| ----------------------------------- | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| Operator client                     | C# WinForms                                                                                              | Auto Document Issue Register Client application                                                  |
+| Microsoft Interop Excel Assembly    | C# WinForms desktop application using Microsoft Office Interop for Excel automation.                     | A .NET interoperability layer that provides programmatic access to Excel.                        |
 
 <h4>Integrated Development Environment</h4>
 
