@@ -227,7 +227,7 @@ Auto Document Issue Register Updater is better than the traditional manual workf
 
 The software imposes aggressive drawing file import validation rules, only accepting valid PDF drawings from the selected directory and auto-detecting the drawing count in the title bar before any update can proceed. 
 
-Instead of manually typing drawing numbers, drawing names, sheet size, revision dates and recipient details, it auto-generates the dated PDF register and locks input and output to the correct project standards location. 
+Instead of manually typing drawing numbers, drawing names, sheet sizes, revisions dates and recipient details, it auto-generates the dated PDF register and locks input and output to the correct project standards location. 
 
 It enforces mandatory completion of Issued For, Document Delivery and Sheet Size, maintains consistent revision control for electrical and mechanical specifications and supporting documents, centralises the eight AEC recipient roles with initials, and simultaneously generates both the Excel register and PDF output with instant access via Open in Excel and View PDF, eliminating copy and paste errors, inconsistent file locations and missing fields while keeping all data on-premises.
 
