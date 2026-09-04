@@ -14,8 +14,6 @@ Document Issue Registers are commonly maintained as bespoke Excel workbooks, wit
 
 The Auto Document Issue Register Updater demonstrates this approach by combining **PDF drawing discovery and validation, Excel register integration, document revision management, recipient management, issue controls and automated PDF generation** into a single desktop workflow. 
 
-The application is designed to work alongside existing project documentation and file-system processes rather than requiring organisations to replace their established register format or introduce a new document-management platform.
-
 ### Repository Scope
 
 > The production application was developed as a bespoke solution and its source code is therefore private. This repository provides the technical documentation, application screenshots, user guide and video demonstration material for the solution.
