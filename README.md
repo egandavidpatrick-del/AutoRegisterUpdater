@@ -12,7 +12,7 @@
 
 A bespoke **C# WinForms desktop application** developed as a case study to showcase how a Document Issue Registers can be automatically completed within the AEC (Architecture, Engineering & Construction) industry.
 
-Document Issue Registers are commonly maintained as bespoke Excel workbooks, with each organisation using its own structure, formatting, document requirements and issue workflows. This makes a universal solution impractical; however, where a defined register format and workflow are established, significant parts of the process can be automated.
+Document Issue Registers are commonly maintained as bespoke Excel workbooks, with each organisation using its own structure, formatting, document requirements and issue workflows. This makes a universal solution impractical.
 
 The Auto Document Issue Register Updater demonstrates this approach by combining **PDF drawing discovery and validation, Excel register integration, document revision management, recipient management, issue controls and automated PDF generation** into a single desktop workflow. 
 
