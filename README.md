@@ -143,7 +143,7 @@ This is a standalone on-premises WinForms C# desktop application.
 
 **3. Data Processing Layer**
 
-- Excel Interop: Opens Document Issue Register.xls, populates drawing list, revision, date, recipients, issued for, delivery
+- Excel Interop: Opens Document Issue Register.xls or Document Issue Register.xlsx, populates drawing list, revision, date, recipients, issued for, delivery
 - PDF Generation: Creates Document Issue Register 02-09-26.pdf - A4/A3 selectable
 - Revision Manager: Handles T1 / X revision values for 7 optional documents - Electrical/Mechanical Spec/Pricing + Design Risk Assessment, Inspection Plan, BCAR Schedule
 
