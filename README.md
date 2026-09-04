@@ -279,5 +279,7 @@ It enforces mandatory completion of Issued For, Document Delivery and Sheet Size
 David Egan
 
 Sole Software Developer, Systems Designer, and Solutions Architect for the Auto Document Issue Register Updater (Case Study – Custom Utility Application)
-**Note:** The Auto Document Issue Register Updater software is not commercially availabe.
+
+**Note:** The Auto Document Issue Register Updater software is not commercially available.
+
 <a href="https://www.linkedin.com/in/davidpatrickegan">LinkedIn</a> 
