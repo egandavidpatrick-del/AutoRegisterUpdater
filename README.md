@@ -18,7 +18,7 @@ The Auto Document Issue Register Updater demonstrates this approach by combining
 
 ### Repository Scope
 
-> The production application was developed as a bespoke solution and its source code is therefore private. This repository provides the application screenshots, user guide and video demonstration material for the solution.
+> The production application was developed as a bespoke production development, its source code remains private. This repository provides the application screenshots, user guide and video demonstration material for the solution.
 
 
 ## At a Glance
