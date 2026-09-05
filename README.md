@@ -64,6 +64,8 @@ Auto Document Issue Register Updater is built like the structures I trust — wi
 
 I build software the way it was 20 years ago: solve the actual problem, then get out of your way. Like a good bridge, it should work flawlessly on day 1 and day 1,001. Same result. No surprises. That’s the standard I hold myself to. That’s Auto Document Issue Register Updater.
 
+---
+
 [Back to top](#enterprise-project)
 <a id="platform-overview"></a>
 ## 🌐 Platform Overview
