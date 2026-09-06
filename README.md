@@ -118,6 +118,22 @@ This repository includes:
 - One-click <b>Update Register</b> - updates Excel and generates PDF register
 
 ---
+## Document Issue Register File locking important!
+
+The Auto Document Issue Register Updater software is designed as an on-premise application and is intended to be installed on a Windows 11 64-bit computer.
+
+It is important to consider where the Document Issue Register spreadsheet is stored. The spreadsheet may be located either on the local hard drive of the host computer or on a shared network file server accessible to authorised users.
+
+The software incorporates a file-locking mechanism designed to prevent multiple users from simultaneously accessing and modifying the Document Issue Register. This safeguard is effective when the spreadsheet is stored locally or on a conventional network file server.
+
+However, it is important to note that the built-in file-locking mechanism is not effective when the Document Issue Register is accessed through a cloud-based storage solution. Cloud storage and synchronisation services may not support or recognise the application's file-locking mechanism in the same way as a local or network-based file system.
+
+Therefore, if the Document Issue Register is stored on a cloud drive, the file-locking functionality within the Auto Document Issue Register Updater software cannot be relied upon. In this scenario, there are no guaranteed safeguards to prevent multiple users or processes from accessing and modifying the spreadsheet simultaneously.
+
+For reliable operation of the software's file-locking and file-in-use safeguards, it is recommended that the Document Issue Register be stored either on the local hard drive of the host computer or on a conventional communal network file server.
+
+---
+
 [Back to top](#enterprise-project)
 <a id="tech-stack"></a>
 ## 🛠 Tech Stack
