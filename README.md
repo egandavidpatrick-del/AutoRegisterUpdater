@@ -49,7 +49,7 @@ Completing a Document Issue register typically is a time consuming, tedious and 
 | 💡 [Solution](#solution) | 🛠️ [Tech Stack](#tech-stack) | 📚 [Documentation](#documentation) | 🚦 [Project Status](#project-status) |
 | 👥 [Who Is It For](#who-is-it-for) |🏗️ [Updater Architecture](#enola-architecture) | 🖼️ [Screenshots](#screenshots-project-navigator--enola) | 👤 [Author](#author) |
 | 🚀 [Why It's Better](#why-is-it-better-than-traditional-workflows)  | ⚙️ [Infrastructure](#operational-infrastructure) | 🔴 [Live Demo](#live-demo) | |
-| 🔒 [File Locking](#File-Locking)  |  |  | |
+|  |  🔒 [File Locking](#File-Locking) |  | |
  | | |
 
 ---
