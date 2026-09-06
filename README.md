@@ -121,7 +121,7 @@ This repository includes:
 ---
 [Back to top](#enterprise-project)
 <a id="File-Locking"></a>
-## 🔒 Document Issue Register File locking Important!
+## 🔒 Document Issue Register File Locking Important!
 
 The Auto Document Issue Register Updater software is designed as an on-premise application and is intended to be installed on a Windows 11 Pro 64-bit computer.
 
