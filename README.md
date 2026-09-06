@@ -49,7 +49,7 @@ Completing a Document Issue register typically is a time consuming, tedious and 
 | 💡 [Solution](#solution) | 🛠️ [Tech Stack](#tech-stack) | 📚 [Documentation](#documentation) | 🚦 [Project Status](#project-status) |
 | 👥 [Who Is It For](#who-is-it-for) |🏗️ [Updater Architecture](#enola-architecture) | 🖼️ [Screenshots](#screenshots-project-navigator--enola) | 👤 [Author](#author) |
 | 🚀 [Why It's Better](#why-is-it-better-than-traditional-workflows)  | ⚙️ [Infrastructure](#operational-infrastructure) | 🔴 [Live Demo](#live-demo) | |
-| 🚀 [File Locking](#File-Locking)  |  |  | |
+| 🔒 [File Locking](#File-Locking)  |  |  | |
  | | |
 
 ---
@@ -121,7 +121,7 @@ This repository includes:
 ---
 [Back to top](#enterprise-project)
 <a id="File-Locking"></a>
-## Document Issue Register File locking Important!
+## 🔒 Document Issue Register File locking Important!
 
 The Auto Document Issue Register Updater software is designed as an on-premise application and is intended to be installed on a Windows 11 64-bit computer.
 
