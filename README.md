@@ -118,7 +118,9 @@ This repository includes:
 - One-click <b>Update Register</b> - updates Excel and generates PDF register
 
 ---
-## Document Issue Register File locking important!
+[Back to top](#enterprise-project)
+<a id="File-Locking"></a>
+## Document Issue Register File locking Important!
 
 The Auto Document Issue Register Updater software is designed as an on-premise application and is intended to be installed on a Windows 11 64-bit computer.
 
