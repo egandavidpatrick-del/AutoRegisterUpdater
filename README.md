@@ -123,7 +123,7 @@ This repository includes:
 <a id="File-Locking"></a>
 ## 🔒 Document Issue Register File locking Important!
 
-The Auto Document Issue Register Updater software is designed as an on-premise application and is intended to be installed on a Windows 11 64-bit computer.
+The Auto Document Issue Register Updater software is designed as an on-premise application and is intended to be installed on a Windows 11 Pro 64-bit computer.
 
 It is important to consider where the Document Issue Register spreadsheet is stored. The spreadsheet may be located either on the local hard drive of the host computer or on a shared network file server accessible to authorised users.
 
