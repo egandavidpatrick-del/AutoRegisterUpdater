@@ -32,7 +32,7 @@ Completing a Document Issue register typically is a time consuming, tedious and 
 
 # 🧭 Auto Document Issue Register Updater (Case Study – Custom Utility Application)
 
-<i>Auto Document Issue Register Updater allows the user to complete a Document Issue Register the quick and easy way.</i>
+<i>Auto Document Issue Register Updater allows the user to complete a Document Issue Register the quick and easy way implemented in just 3 clicks.</i>
 <p align="left">
 <img src="/images/image1.png" width="100%" alt="Auto Document Issue Updater Main User Interface">
 </p>
