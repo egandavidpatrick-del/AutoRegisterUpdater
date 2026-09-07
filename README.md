@@ -270,7 +270,7 @@ It enforces mandatory completion of Issued For, Document Delivery and Sheet Size
 
 **Development and Test Environment**
 
-- Developed and tested on Windows 11 Pro box.
+- Developed and tested on Windows 11 Pro x64 Computer.
 
 **Software Requirements**
 - Microsoft Office 365 is Installed on the users computer ensuring Microsoft Excel is installed.
