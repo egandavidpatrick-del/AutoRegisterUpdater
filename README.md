@@ -280,7 +280,7 @@ It enforces mandatory completion of Issued For, Document Delivery and Sheet Size
 <a id="live-demo"></a>
 ## 🔴 Live Demo
 
-[Auto Document Issue Register Updater Demo](https://youtu.be/SGEvxxJSsUE)
+[Auto Document Issue Register Updater Demo]()
 
 ---
 [Back to top](#enterprise-project)
