@@ -4,6 +4,9 @@
 ![License](https://img.shields.io/github/license/egandavidpatrick-del/saubon-synogen)
 ![Last Commit](https://img.shields.io/github/last-commit/egandavidpatrick-del/saubon-synogen)
 
+## Auto Document Issue Register Updater User Guides
+* [01. Auto Document Issue Register Updater User Guidel](https://github.com/egandavidpatrick-del/project-navigator/blob/6010d873bdf3f57fd7822c83fdbd5dce8768ca95/images/enola-server/image7.png)
+
 #  Auto Document Issue Register Updater (Case Study – Custom Utility Application)
 
 ## The Auto Document Issue Register Updater software is not commercially available.
