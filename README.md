@@ -9,8 +9,6 @@
 
 #  Auto Document Issue Register Updater (Case Study – Custom Utility Application)
 
-## Go to the table of contents below and click the Live Demo Link for demo video.
-
 ## The Auto Document Issue Register Updater software is not commercially available.
 
 A bespoke **C# WinForms desktop application** developed as a case study to showcase how a Document Issue Registers can be automatically completed within the AEC (Architecture, Engineering & Construction) industry.
@@ -273,7 +271,7 @@ It enforces mandatory completion of Issued For, Document Delivery and Sheet Size
 
 **Development and Test Environment**
 
-- Developed and tested on Windows 11 Pro x64 Computer.
+- Developed and tested on Windows 11 Pro x64-bit Computer.
 
 **Software Requirements**
 - Microsoft Office 365 is Installed on the users computer ensuring Microsoft Excel is installed.
@@ -282,8 +280,6 @@ It enforces mandatory completion of Issued For, Document Delivery and Sheet Size
 [Back to top](#enterprise-project)
 <a id="live-demo"></a>
 ## 🔴 Live Demo
-
-[Auto Document Issue Register Updater Demo](https://youtu.be/SGEvxxJSsUE)
 
 ---
 [Back to top](#enterprise-project)
