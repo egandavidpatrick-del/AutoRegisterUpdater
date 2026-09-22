@@ -5,7 +5,7 @@
 ![Last Commit](https://img.shields.io/github/last-commit/egandavidpatrick-del/saubon-synogen)
 
 ## Auto Document Issue Register Updater User Guide
-* [00. Auto Document Issue Register Updater User Guide](https://github.com/egandavidpatrick-del/AutoRegisterUpdater/blob/18e35af0ce2cc4bc7f6620499584ec7b03a04e68/guide/user-guide/AUTO%20DOCUMENT%20ISSUE%20REGISTER%20UPDATER%20USER%20GUIDE%20VERSION%201.0.pdf)
+* [00. Auto Document Issue Register Updater User Guide](guide/user-guide/AUTO DOCUMENT ISSUE REGISTER UPDATER USER GUIDE VERSION 1.0.pdf)
 
 #  Auto Document Issue Register Updater (Case Study – Custom Utility Application)
 
