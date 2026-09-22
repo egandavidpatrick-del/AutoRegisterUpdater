@@ -9,6 +9,8 @@
 
 #  Auto Document Issue Register Updater (Case Study – Custom Utility Application)
 
+## Go to the table of contents below and click the Live Demo Link for demo video.
+
 ## The Auto Document Issue Register Updater software is not commercially available.
 
 A bespoke **C# WinForms desktop application** developed as a case study to showcase how a Document Issue Registers can be automatically completed within the AEC (Architecture, Engineering & Construction) industry.
