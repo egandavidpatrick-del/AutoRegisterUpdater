@@ -209,7 +209,7 @@ This is a standalone on-premises WinForms C# desktop application.
   <img src="./images/image2.png" width="49%" alt="alt="Auto Document Issue Register  - File Menu Options">
   <img src="./images/image3.png" width="49%" alt="Auto Document Issue Register - Help Menu Options">
 </p>
-<h3>Auto Document Issue Register Updater - About Dialog & Interactive ToolTip help</h3>
+<h3>Auto Document Issue Register Updater - About Dialog & Interactive Tooltip help</h3>
 <p align="left">
   <img src="./images/image4.png" width="49%" alt="alt="Auto Document Issue Register  - File Menu Options">
   <img src="./images/image5.png" width="49%" alt="Auto Document Issue Register - Help Menu Options">
