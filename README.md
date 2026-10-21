@@ -12,6 +12,8 @@
 
 ## The Auto Document Issue Register Updater software is not commercially available, but it presents here a unique automation that can be achieved.
 
+## Scroll down to the table of contents and select the Live Demo link to view demo video.
+
 A bespoke **C# WinForms desktop application** developed as a case study to showcase how a Document Issue Registers can be automatically completed within the AEC (Architecture, Engineering & Construction) industry.
 
 Document Issue Registers are commonly maintained as bespoke Excel workbooks, with each organisation using its own structure, formatting, document requirements and issue workflows. This makes a universal solution impractical.
