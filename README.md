@@ -284,6 +284,8 @@ It enforces mandatory completion of Issued For, Document Delivery and Sheet Size
 <a id="live-demo"></a>
 ## 🔴 Live Demo
 
+[Complete a Document Issue Register the quick and easy way Demo video](https://youtu.be/whuJu3gynh4)
+
 ---
 [Back to top](#enterprise-project)
 <a id="results"></a>
