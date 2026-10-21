@@ -10,7 +10,7 @@
 
 #  Auto Document Issue Register Updater (Case Study – Custom Utility Application)
 
-## The Auto Document Issue Register Updater software is not commercially available, but it presents here a unique automation that can be achieved.
+## The Auto Document Issue Register Updater software is not commercially available, but it presents here a unique automation that can be achieved. The Auto Document Issue Register Updater is not a one-size-fits-all.
 
 ## Scroll down to the table of contents and select the Live Demo link to view demo video.
 
